@@ -1,0 +1,17 @@
+What I have learned: 
+In this lab, I learned how to enable the I2C interface on the Raspberry Pi, connect an I2C temperature sensor, 
+and write a Python program using Object-Oriented Programming (OOP) principles to read temperature data. I gained practical experience with the SMBus library 
+how to structure code into classes for better organization and maintainability.
+
+What I believe I need to improve: I need to work on my understanding of OOP concepts, 
+particularly around encapsulation and inheritance, to write more complex and modular code. Additionally, .
+I could improve my troubleshooting skills, especially when dealing with I2C connections and sensor data retrieval.
+
+What the teacher could have said or done to make learning easier: 
+i found everything was pretty good.
+
+What I could have done to make the learning easier:
+I could have reviewed OOP concepts before starting the lab to better grasp how to implement them in Python. Spending time experimenting with smaller pieces of the code, 
+such as just reading sensor data, might have helped me understand how to integrate the different elements effectively.
+
+Other reflections: iam happy with everything we learned.
